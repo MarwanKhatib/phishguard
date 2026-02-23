@@ -1,0 +1,16 @@
+django>=5.0,<6.0
+djangorestframework>=3.15,<4.0
+psycopg2-binary>=2.9
+celery>=5.3,<6.0
+redis>=5.0,<6.0
+numpy>=1.26,<2.0
+pandas>=2.2,<3.0
+requests>=2.31,<3.0
+tldextract>=5.1,<6.0
+python-whois>=0.9,<1.0
+ipwhois>=1.2,<2.0
+playwright>=1.42,<2.0
+gunicorn>=21.2,<22.0
+torch>=2.2,<3.0
+torch-geometric>=2.4,<3.0
+dnspython>=2.6,<3.0
